@@ -1,1 +1,3 @@
 # hello-world
+### Obviously this is where you learn how to do stuff.
+### NIce day to start new things...
